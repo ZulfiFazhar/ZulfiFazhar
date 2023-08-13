@@ -6,7 +6,7 @@ Currently studying at Universitas Komputer Indonesia, Computer Science Major.
 <!--     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=python" /> -->
 <!--     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> -->
 <!--     <img src="https://gpvc.arturio.dev/bagusfe" /> -->
-    <img src="https://img.shields.io/badge/Python-blue?-logo=python">
+    <img src="https://img.shields.io/badge/any_text-you_like-blue?logo=python">
 
 </p>
 
