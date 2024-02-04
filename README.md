@@ -7,7 +7,6 @@ I'm an Undergraduate Computer Science Student
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 -->
-### Stats:
 
 <!--
 <details>
@@ -22,12 +21,16 @@ I'm an Undergraduate Computer Science Student
     - ⚡ Fun fact: ... </br>
 </details>
 -->
-<p>
+
+### My Stats:
+
+<div style="display:flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=zulfifazhar&show_icons=true&rank_icon=github&theme=default" height=200/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfifazhar&layout=compact" height=200/>
-</p>
+</div>
 
 ### Let's connect!
+
 <p>
     <a href="https://www.linkedin.com/in/zulfi-fadilah-azhar/" target="blank"><img src="https://img.shields.io/badge/Zulfi_Fadilah_Azhar-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@zulfi.fazhar12" target="blank"><img src="https://img.shields.io/badge/Zulfi_Fadilah_Azhar-30302f?style=flat&logo=medium" /></a>
