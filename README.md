@@ -24,9 +24,9 @@ I'm an Undergraduate Computer Science Student
 
 ### My Stats:
 
-<div style="display:flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=zulfifazhar&show_icons=true&rank_icon=github&theme=default" height=200/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfifazhar&layout=compact" height=200/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zulfifazhar&show_icons=true&rank_icon=github&theme=default" height=180/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfifazhar&layout=compact" height=180/>
 </div>
 
 ### Let's connect!
